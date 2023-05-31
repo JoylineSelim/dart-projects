@@ -4,6 +4,9 @@ void main(){
 
   print(firstname);
   print(number);
+  bool isregisteredvoter=false;
+  print(isregisteredvoter);
+
 
 }
 
